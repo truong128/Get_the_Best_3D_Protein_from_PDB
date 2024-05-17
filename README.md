@@ -1,3 +1,4 @@
+![image](https://github.com/truong128/Get_the_Best_3D_Protein_from_PDB/blob/main/The_Beauty_of_Biology.png)
 # Get_the_Best_3D_Protein_from_PDB #
 
 *This script aims to get/retrieve the 3D protein structures from PDB using the ID from UniProt. It will get the best 3D structure by screening all available similar structures to get the best structure with the Lowest Resolution (Lowest Angstrong value).*
